@@ -146,19 +146,19 @@ function wish() {
   const time = moment.tz('Asia/Kolkata').format('HH')
   wishloc = ('Hi')
   if (time >= 0) {
-    wishloc = ('Night Rider')
+    wishloc = ('Selamat Dini Hari')
   }
   if (time >= 4) {
-    wishloc = ('Good Morning')
+    wishloc = ('Selamat Pagi')
   }
   if (time >= 12) {
-    wishloc = ('Good Afternoon')
+    wishloc = ('Selamat Siang')
   }
   if (time >= 16) {
-    wishloc = ('️Good Evening')
+    wishloc = ('️Selamat Sore')
   }
   if (time >= 23) {
-    wishloc = ('Night Rider')
+    wishloc = ('Selamat Malam')
   }
   return wishloc
 }
