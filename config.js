@@ -104,8 +104,8 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = '❏═┅═━–〈' //top
-global.dmenub = '┊×' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
+global.dmenub = '┊‣' //body
+global.dmenub2 = '┊‣' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
@@ -126,8 +126,8 @@ global.hsquere = '⛶', '❏', '⫹⫺'
 global.l = '「'
 global.r = '」'
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'Created By © 𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧'
+global.author = '@YogzKyz'
 
 global.multiplier = 69 // The higher, The harder levelup
 
