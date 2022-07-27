@@ -11,7 +11,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 		let mime = (q.msg || q).mimetype || q.mediaType || ''
 		if (/webp/g.test(mime)) {
 			let img = await q.download?.()
-			stiker = await addExif(img, packname || '', author || '')
+			stiker = await addExif(img, packname || 'Created By © 𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧', author || '@YogzKyz')
 		} else if (/image/g.test(mime)) {
 			let img = await q.download?.()
 			stiker = await createSticker(img, false, packname, author)
