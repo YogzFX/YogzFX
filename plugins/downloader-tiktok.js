@@ -15,7 +15,7 @@ if (!args[0]) throw `Use example ${usedPrefix}${command} https://vt.tiktok.com/Z
   █──█████──█████
   █▄──▀▀▀──▄█████
   ███▄▄▄▄▄███████
-       ⇆ㅤ◁ㅤ ❚❚ㅤ ▷ㅤ↻ 
+      ⇆ㅤ◁ㅤ ❚❚ㅤ ▷ㅤ↻ 
 *Nickname:* ${nickname}
 *Description:* ${description}
 
