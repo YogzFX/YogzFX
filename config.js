@@ -21,7 +21,7 @@ global.prems = [] // Premium user has unlimited limit
 global.lolkey = 'YourApikey'
 global.xkey = 'YourApikey'
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  zenz: 'https://zenzapis.xyz'
   lolhuman: 'https://api.lolhuman.xyz',
   nrtm: 'https://nurutomo.herokuapp.com',
   bg: 'http://bochil.ddns.net',
@@ -34,7 +34,7 @@ global.APIs = { // API Prefix
   hadi: 'http://hadi-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  'https://zenzapis.xyz': 'apikey'
   'https://api.xteam.xyz': 'YourApikey',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
