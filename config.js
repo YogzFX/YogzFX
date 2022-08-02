@@ -21,7 +21,7 @@ global.prems = [] // Premium user has unlimited limit
 global.lolkey = 'YourApikey'
 global.xkey = 'YourApikey'
 global.APIs = { // API Prefix
-  zenzapis: 'https://zenzapis.xyz'
+  // zenzapis: 'https://zenzapis.xyz'
   lolhuman: 'https://api.lolhuman.xyz',
   nrtm: 'https://nurutomo.herokuapp.com',
   bg: 'http://bochil.ddns.net',
