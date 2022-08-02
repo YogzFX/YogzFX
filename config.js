@@ -34,7 +34,7 @@ global.APIs = { // API Prefix
   hadi: 'http://hadi-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  'https://zenzapis.xyz': 'apikey'
+  // 'https://zenzapis.xyz': 'apikey'
   'https://api.xteam.xyz': 'YourApikey',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
